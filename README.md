@@ -1,16 +1,27 @@
-# React + Vite
+# 🌐 My Personal 3D Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my **Personal Portfolio Website**, built with **React + Vite** and powered by **modern 3D animations**.  
+This website showcases my skills, projects, and experience as a **MERN Stack Developer**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
+👉 [**Visit My Portfolio**](https://my-personal-portfolio3d.netlify.app/)  
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🖼️ Project Preview
+![Portfolio Banner](src/demo/banner.png)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- ⚛️ **React.js** — Frontend library for building UI  
+- ⚡ **Vite** — Next-generation frontend tooling  
+- 🎨 **Tailwind CSS** — For modern, responsive styling  
+- 🧩 **Framer Motion** — For smooth animations  
+- 🌍 **Spline 3D** — For interactive 3D elements  
+- 💻 **GSAP** — For scroll and motion effects  
+
+---
